@@ -1,0 +1,1 @@
+window.io_global_object_name="IGLOO",window.IGLOO=window.IGLOO||{install_flash:!1,bb_callback:function(o,n){for(var e=document.getElementsByClassName("blackbox"),a=0,l=e.length;a<l;a++)e[a].value=o},loader:{tp_host:"https://ci-mpsnare.iovation.com",version:"5.0.0",subkey:"SQJqe0VSIXXooI4m4dizI2nzchIibtPrjo7C+j4XtyY=",trace_handler:function(o){console.log(o)}}};

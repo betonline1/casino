@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	SPSI	245ca7da87b5fe44904b78674334b7b9
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	SPSE	J8LBAG3LbYEzjSYYvk+uCAflVFoM8EyMIbr1OoxdnZu2BBxbPUkSMJKYeKY3fs5PHf2VQZ5bL0hcExnsh0jEag==
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	adOtr	obsvl
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	PHPSESSID	7f1158fddefb7cec2a0a8d3e0ac23316
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	device_view	full
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	sp_lit	T/ARD4l74/GEwGiEGB8p8A==
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	spcsrf	7d2f8e91ab88650adabcffd40cb7c49c
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	UTGv2	D-h45ef2a963dd884aec1953cf7066778fd023
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.casinoslot406.com	TRUE	/	FALSE	1999999999	cf_country	TR
+

@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 26 Oct 2022 03:20:48 at http://www.casinoslot406.com/tr +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" http://www.casinoslot406.com/tr -O1 "C:\casinoslot\fs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:21:30	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.casinoslot406.com/tr)
+03:21:30	Warning: 	Moved Permanently for https://www.casinoslot406.com/
+03:21:30	Warning: 	File has moved from https://www.casinoslot406.com/ to https://www.casinoslot406.com/tr
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 19 seconds : 396 links scanned, 393 files written (66854258 bytes overall) [60737735 bytes received at 121718 bytes/sec], 11026951 bytes transferred using HTTP compression in 1704 files, ratio 24%, 48.3 requests per connection
+(1 errors, 2 warnings, 0 messages)
